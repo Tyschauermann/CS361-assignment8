@@ -1,3 +1,5 @@
+Make sure you have Node.js and ZeroMQ for the functionality of this program.
+
 How to call the micorservice: 
 1. Establish a "requester" connect it to the appropiate port.
     Code {
